@@ -1,0 +1,1 @@
+public static final String = drop.imp;
